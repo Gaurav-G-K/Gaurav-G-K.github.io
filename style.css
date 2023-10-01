@@ -345,8 +345,9 @@ span {
   border-radius: 0.5rem;
 }
 
-.project-name{
+.project-title{
   padding: 10px;
+
 }
 .project-description{
     /* border: 1px solid black; */

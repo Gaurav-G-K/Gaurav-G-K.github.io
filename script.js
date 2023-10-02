@@ -26,17 +26,17 @@ darkmode.onclick = () => {
   }
 };
 
-// document.getElementById("resume-link-1").addEventListener("click", () => {
-//   window.open(
-//     "./Resume/Gaurav_Kanaujiya_Resume.pdf"
-//   );
-// });
+document.getElementById("resume-button-2").addEventListener("click", () => {
+  window.open(
+    "./Resume/Gaurav_Kanaujiya_Resume.pdf"
+  );
+});
 
-// document.getElementById("resume-link-2").addEventListener("click", () => {
-//   window.open(
-//     "./Resume/Gaurav_Kanaujiya_Resume.pdf"
-//   );
-// });
+document.getElementById("resume-button-1").addEventListener("click", () => {
+  window.open(
+    "./Resume/Gaurav_Kanaujiya_Resume.pdf"
+  );
+});
 document.getElementById("resume-link-3").addEventListener("click", () => {
   window.open(
     "./Resume/Gaurav_Kanaujiya_Resume.pdf"

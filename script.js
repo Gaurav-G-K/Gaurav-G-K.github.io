@@ -32,11 +32,11 @@ document.getElementById("resume-link-1").addEventListener("click", () => {
   );
 });
 
-document.getElementById("resume-link-2").addEventListener("click", () => {
-  window.open(
-    "./Resume/Gaurav_Kanaujiya_Resume.pdf"
-  );
-});
+// document.getElementById("resume-link-2").addEventListener("click", () => {
+//   window.open(
+//     "./Resume/Gaurav_Kanaujiya_Resume.pdf"
+//   );
+// });
 document.getElementById("resume-link-3").addEventListener("click", () => {
   window.open(
     "./Resume/Gaurav_Kanaujiya_Resume.pdf"

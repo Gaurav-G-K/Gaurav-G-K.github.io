@@ -180,7 +180,9 @@ header.shadow {
 .btn:hover {
     background: var(--hover);
 }
-
+button{
+    border: none;
+}
 
 .resume-button {
     display: inline-block;
